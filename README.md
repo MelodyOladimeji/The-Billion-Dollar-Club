@@ -34,6 +34,8 @@ Standardized column headers for improved clarity and readability.
 ## **Billion-Dollar-Club-Insight**
 ![Dashboard..](Dashboard...png)
 
+[![Power BI](https://img.shields.io/badge/Live_Dashboard-202124?style=for-the-badge&logo=powerbi&logoColor=F2C811)](https://app.powerbi.com/links/cd79DuaBJk?ctid=6c747385-5259-4701-9193-79e915ceb07e&pbi_source=linkShare)
+
 ### Top Market Performers per Total Valuation 
 - ByteDance leads the global pack as the world's most valuable unicorn, commanding a massive $180 billion valuation.
 - SpaceX and Shein are tied for the second-highest spot, both reaching a milestone valuation of $100 billion.
