@@ -32,7 +32,7 @@ Standardized column headers for improved clarity and readability.
 - **Speed to Scale**: On average, it takes a startup 7 years of hard work to hit that coveted $1 billion milestone.
 
 ## **Billion-Dollar-Club-Insight**
-![Dashboard](Dashboard.png)
+![Dashboard..](Dashboard...png)
 
 ### Top Market Performers per Total Valuation 
 - ByteDance leads the global pack as the world's most valuable unicorn, commanding a massive $180 billion valuation.
