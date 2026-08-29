@@ -32,9 +32,8 @@ Standardized column headers for improved clarity and readability.
 - **Speed to Scale**: On average, it takes a startup 7 years of hard work to hit that coveted $1 billion milestone.
 
 ## **Billion-Dollar-Club-Insight**
-![Dashboard..](Dashboard...png)
-
-[![Power BI](https://img.shields.io/badge/Live_Dashboard-202124?style=for-the-badge&logo=powerbi&logoColor=F2C811)](https://app.powerbi.com/links/cd79DuaBJk?ctid=6c747385-5259-4701-9193-79e915ceb07e&pbi_source=linkShare)
+![Dashboard](Dashboard.png)
+[![Power BI](https://img.shields.io/badge/Power_BI-Report-F2C94C?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/links/cd79DuaBJk?ctid=6c747385-5259-4701-9193-79e915ceb07e&pbi_source=linkShare)
 
 ### Top Market Performers per Total Valuation 
 - ByteDance leads the global pack as the world's most valuable unicorn, commanding a massive $180 billion valuation.
